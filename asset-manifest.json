@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vigatron/static/css/main.fb5023a2.css",
+    "main.js": "/vigatron/static/js/main.b77c9549.js",
+    "static/js/453.034186bf.chunk.js": "/vigatron/static/js/453.034186bf.chunk.js",
+    "static/media/VIG.svg": "/vigatron/static/media/VIG.69befbeb37332e6e6a6f94c8ff06ec32.svg",
+    "index.html": "/vigatron/index.html",
+    "main.fb5023a2.css.map": "/vigatron/static/css/main.fb5023a2.css.map",
+    "main.b77c9549.js.map": "/vigatron/static/js/main.b77c9549.js.map",
+    "453.034186bf.chunk.js.map": "/vigatron/static/js/453.034186bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb5023a2.css",
+    "static/js/main.b77c9549.js"
+  ]
+}
